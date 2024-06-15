@@ -1,0 +1,9 @@
+- Support to manage categories & products from the admin site.
+    * What is decorator?
+    * How it works?
+    * How we define a decorator?
+    
+- Create a superuser
+- Add some products & categories from the admin site.
+
+
