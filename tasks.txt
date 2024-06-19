@@ -7,3 +7,12 @@
 - Add some products & categories from the admin site.
 
 
+
+
+- Create another view `product_detail`. 
+- Register your view with the urls.
+    * List, Tuples, Dict, Set in Python
+    * Filtering a List, Dict
+    * Sorting list, dictionary (keys, values)
+    * List, Dict Comprehension
+
